@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/736x/05/0f/0a/050f0a3bd19ce811522f0c63256637e9.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/421744c5-139a-44a6-aaea-560db4b7b68a/debnpgr-35858bea-f5aa-4504-96f9-01b179e694b3.jpg/v1/fill/w_1192,h_670,q_70,strp/anime_wallpaper_banner__edit_art_by_lumihstrawberry_debnpgr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzNiIsInBhdGgiOiJcL2ZcLzQyMTc0NGM1LTEzOWEtNDRhNi1hYWVhLTU2MGRiNGI3YjY4YVwvZGVibnBnci0zNTg1OGJlYS1mNWFhLTQ1MDQtOTZmOS0wMWIxNzllNjk0YjMuanBnIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.U1VKu48AnWN1yH5K5ixXCeYzau61NR62-1P7v8pVknE))
+![Bodhisatwa's GitHub Banner](https://media.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1691020800&v=beta&t=KBVJI65G7p6pyfRj8YQAHPBuc0r_zw_J4q6p0dwOsq0)
 
 <h1 align="center">Hi 👋, I'm Bodhisatwa Chakraborty</h1>
 <h3 align="center">A passionate frontend developer and Graphic Designer from India</h3>
