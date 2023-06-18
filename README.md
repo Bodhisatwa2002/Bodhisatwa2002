@@ -1,4 +1,5 @@
-![Bodhisatwa's GitHub Banner](https://media.licdn.com/dms/image/C4D16AQG24y_tTknoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1590596191936?e=1691020800&v=beta&t=KBVJI65G7p6pyfRj8YQAHPBuc0r_zw_J4q6p0dwOsq0)
+![Bodhisatwa's GitHub Banner](https://i.postimg.cc/Bnhmxyw0/Banner-Portfolio2.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Bodhisatwa Chakraborty</h1>
 <h3 align="center">A passionate frontend developer and Graphic Designer from India</h3>
